@@ -1,3 +1,4 @@
+google.com, pub-2158789572736208, DIRECT, f08c47fec0942fa0
 themoneytizer.com,131350,DIRECT
 improvedigital.com,1602_131350,DIRECT
 improvedigital.com,1033_131350,DIRECT
